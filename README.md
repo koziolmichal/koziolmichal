@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @koziolmichal
-- 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning Django & React, understand basics of HTML, CSS, Python (Flask, SQLAlchemy)
-- 💞️ I’m looking to collaborate on some web-applications projects
-- 📫 How to reach me: mkoziol.business@gmail.com
+- 👋  Hi, I’m @koziolmichal
+- 👀  I’m interested in Web-Development
+- 🌱  I’m currently learning Django & React, understand basics of HTML, CSS, Python (Flask, SQLAlchemy)
+- 💞️  I’m looking to collaborate on some web-applications projects
+- 📫  How to reach me: mkoziol.business@gmail.com
 
 <!---
 koziolmichal/koziolmichal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
