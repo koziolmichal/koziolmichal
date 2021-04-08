@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @koziolmichal
-- 👀  I’m interested in Web-Development
-- 🌱  I’m currently learning Django & React, understand basics of HTML, CSS, Python (Flask, SQLAlchemy)
+- 👀  I’m interested in Web-Development & Software Engineering
+- 🌱  I’m currently learning Django & React, understand basics of C++, Python (Flask, SQLAlchemy), HTML & CSS, JavaScript
 - 💞️  I’m looking to collaborate on some web-applications projects
 - 📫  How to reach me: mkoziol.business@gmail.com
 
